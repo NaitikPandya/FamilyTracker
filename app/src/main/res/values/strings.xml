@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Family Protect</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="family_string">FAMILY</string>
+    <string name="protect_string">PROTECT</string>
+    <string name="family_ek1_string">FAMILY</string>
+    <string name="protect_ek1_string">PROTECT</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
