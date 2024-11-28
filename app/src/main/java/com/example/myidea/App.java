@@ -16,6 +16,7 @@ public class App extends Application {
     }
     public void createNotification()
     {
+        System.out.println("WELCOME");
         if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.O)
         {
             NotificationChannel channel1 = new NotificationChannel(background_id,"Location", NotificationManager.IMPORTANCE_HIGH);
